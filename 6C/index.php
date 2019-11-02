@@ -201,7 +201,7 @@
             <div class="modal-body">
                 <div class='container'>
                     <div class='text-center'>
-                        <h6 id='nama'>DATA #ID </h6> <br>
+                        <h6 id='nama'>DATA RAISA ANDRIANI #1 </h6> <br>
                         <img src="assets/img/centang.png" width='200px' height='160px' alt="">
                         <br><br>
                         <h6>BERHASIL DIHAPUS!</h6>
