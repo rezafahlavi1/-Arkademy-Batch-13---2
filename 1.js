@@ -25,4 +25,4 @@ function biodata(name,age){
     return json_result;
 } 
 
-console.log(biodata("Muhammad Adam Canrayneldy", 18))
+console.log(biodata("Reza Fahlavi", 18))
